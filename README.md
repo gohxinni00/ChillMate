@@ -31,7 +31,6 @@ As a result, students often experience:
 - Poor visibility of future workload
 - Difficulty balancing academics and personal life
 
-
 ---
 
 ## Stakeholders & User Personas
@@ -50,104 +49,139 @@ ChillMate is designed for students managing academics, commitments, and wellbein
 
 ---
 
-## Existing Solutions & Market Gap
-
-Although many productivity tools support students, most only address part of the problem.
-
-| Feature | MyStudyLife | Todoist | Mood Tracker | Studwy | ChillMate |
-|----------|------------|----------|-------------|---------|----------|
-| Academic Planning | ✅ | ❌ | ❌ | ✅ | ✅ |
-| Task Management | ✅ | ✅ | ❌ | ✅ | ✅ |
-| AI Task Breakdown | ❌ | ❌ | ❌ | ✅ | ✅ |
-| Workload Capacity Score | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Stress Monitoring | ❌ | ❌ | ✅ | ❌ | ✅ |
-| Wellbeing & Life Balance | ❌ | ❌ | ✅ | Limited | ✅ |
-| Weekly Workload Analysis | ❌ | ❌ | ❌ | ❌ | ✅ |
-
-### Market Gap
-
-Most existing productivity apps are designed to help students organize and complete tasks. However, they rarely consider whether students have enough time, energy, and capacity to realistically handle their workload.
-
-As a result, students may maintain well-organized schedules while still experiencing stress, poor work-life balance, and burnout due to overlapping commitments and limited capacity.
-
-Most existing applications answer:
-
-> "What tasks do I need to do?"
-
-ChillMate answers:
-
-> "How can AI help me manage my workload, maintain my wellbeing, and prevent burnout?"
-
-By combining workload analysis, capacity awareness, AI-powered planning, and wellbeing support, ChillMate helps students prevent overload before it becomes burnout.
-
----
-
 ## Our Solution
 
-ChillMate is an AI-powered student capacity management platform that helps university students balance their workload, wellbeing, and personal commitments. Unlike traditional productivity tools that focus heavily on task completion, ChillMate evaluates workload, available time, energy levels, and wellbeing indicators to help students make better decisions before stress becomes burnout.
+### Your Personal AI-Powered Academic Planning Assistant
 
-The platform combines planning, wellbeing support, workload analysis, and AI-powered recommendations into a single ecosystem.
+Imagine simply telling the system:
 
-### Core Features
+> "I have a Mathematics test next Friday, two assignments due next week, and I'm unavailable on Wednesday."
 
-### 🤖 AI Planning Assistant
-- AI Task Breakdown
-- AI Smart Scheduling
-- AI Assistant
+Within seconds, StudyFlow AI automatically understands your academic workload, prioritizes important tasks, breaks complex assignments into smaller milestones, and generates a personalized study timetable tailored specifically to you.
 
-**Purpose:** Transform tasks into actionable plans.
+Unlike traditional study planners that only store information, **StudyFlow AI actively plans for students.**
 
----
+### Why StudyFlow AI?
 
-### 📅 Academic & Life Management
-- Classes
-- Assignments
-- Exams
-- Activities
-- Part-Time Work
-- Travel
-- Emergency Events
-- Personal Commitments
+✅ Reduces academic procrastination
 
-**Purpose:** Centralize all commitments in one platform.
+✅ Eliminates manual timetable planning
 
----
+✅ Adapts instantly to schedule changes
 
-### 📊 Smart Dashboard
-- Daily Overview
-- Upcoming Deadlines
-- Progress Tracking
-- Weekly Reports
+✅ Creates personalized study plans
 
-**Purpose:** Provide a unified view of workload and progress.
+✅ Saves students valuable time
+
+✅ Keeps students motivated through gamification
+
+✅ Leverages AI to make smarter study decisions
 
 ---
 
-### ⚡ Capacity & Stress Monitoring
-- Workload Capacity Score
-- Early Overload Detection
+## ✨ Key Features
 
-**Purpose:** Identify overload risks before burnout occurs.
+<div align="center">
 
----
+<table>
+<tr>
 
-### 🌱 Wellbeing & Motivation System
-- Wellness Coach
-- Recovery Suggestions
-- Mood Check-ins
-- Rewards & Encouragement
+<td width="50%" valign="top">
 
-**Purpose:** Support healthy study habits and wellbeing.
+### 🤖 AI Study Assistant
 
----
+Talk to your planner naturally.
 
-### 🚨 AI Insights & Recommendations
-Examples:
-- “You have been studying for 3 hours. Consider taking a short break.”
-- “Move revision to Friday to reduce Thursday's workload.”
-- “Your average sleep duration is below 6 hours. Consider taking a short nap.”
+Simply describe your assignments, exams, deadlines, and commitments in everyday language. StudyFlow AI understands your workload, identifies priorities, and instantly transforms your input into an actionable study plan.
 
-**Purpose:** Provide personalized recommendations based on workload, stress, sleep, and progress.
+✅ Natural Language Input  
+✅ Deadline & Priority Recognition  
+✅ Personalized Study Recommendations  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 AI Task Breakdown & Smart Scheduling
+
+Let AI handle the planning.
+
+Large assignments and exam preparations can feel overwhelming. StudyFlow AI automatically breaks complex tasks into manageable subtasks, estimates the required effort, and generates a personalized timetable tailored to your schedule.
+
+✅ AI Task Breakdown  
+✅ Effort & Time Estimation  
+✅ AI-Powered Schedule Generation  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📅 Smart Availability Management
+
+Your schedule adapts to real life.
+
+Students can mark specific days or time slots as available or unavailable. Whenever plans change, StudyFlow AI automatically reorganizes remaining tasks while keeping deadlines achievable.
+
+✅ Available / Unavailable Day Settings  
+✅ Automatic Schedule Adjustment  
+✅ Personalized Time Allocation  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Progress & Productivity Dashboard
+
+See your academic journey at a glance.
+
+Monitor completed tasks, pending assignments, study progress, and upcoming deadlines through a centralized dashboard designed to provide clear visibility into your workload.
+
+✅ Task Status Tracking  
+✅ Progress Monitoring  
+✅ Deadline Visibility  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎉 Achievement & Smart Check-In
+
+Stay motivated while building consistent habits.
+
+Celebrate milestones through achievements, study streaks, and progress rewards. Regular check-ins help students reflect on their workload while enabling the AI to improve future schedule recommendations.
+
+✅ Achievement System  
+✅ Study Streak Rewards  
+✅ Workload Check-Ins  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Adaptive Academic Planning
+
+An intelligent planner that evolves with you.
+
+Unlike traditional planners, StudyFlow AI continuously adapts based on task completion, availability changes, and workload adjustments to maintain realistic and achievable schedules throughout the semester.
+
+✅ Dynamic Timetable Updates  
+✅ Workload Balancing  
+✅ Personalized Planning Experience  
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -155,24 +189,37 @@ Examples:
 
 ## 2.1 Ideas We Considered
 
-During the ideation phase, our team explored multiple approaches to address student stress and workload management. After evaluating the feasibility, potential impact, and alignment with the problem statement, we narrowed the concept into the following core features.
+During the ideation phase, our team explored multiple approaches to improve student productivity, academic planning, and workload management. After discussing the feasibility, uniqueness, and potential impact of each feature, we refined our scope to focus on AI-powered planning capabilities that provide the greatest value to students.
 
 | Idea | Decision | Reason |
 |--------|----------|----------|
-| AI Task Breakdown | ✅ Kept | Helps students transform large assignments into manageable subtasks and reduces planning burden. |
-| AI Smart Scheduling | ✅ Kept | Automatically distributes workload based on classes, commitments, and personal availability. |
-| Workload Capacity Score | ✅ Kept | Provides visibility into whether a student's workload is healthy, busy, or overloaded. |
-| AI Chat Assistant | ✅ Kept | Allows students to receive personalized guidance and workload recommendations. |
-| Stress & Burnout Detection | ✅ Kept | Supports early intervention by identifying workload overload and stress trends. |
-| Recovery & Break Suggestions | ✅ Kept | Encourages healthier study habits through personalized break and recovery recommendations. |
-| Availability & Focus Time Settings | ✅ Kept | Allows the AI to create realistic schedules based on personal capacity. |
-| Emergency Overload Mode | ✅ Kept | Simplifies workload during critical periods and highlights what can be postponed. |
-| Reward & Motivation System | ✅ Kept | Encourages consistent progress through positive reinforcement and achievement tracking. |
-| Mini Relaxation Activities | ⚠ Considered for Future Enhancement | Valuable for wellbeing but outside the MVP scope. |
-| Daily Motivational Quotes | ⚠ Considered for Future Enhancement | Improves engagement but not directly related to workload management. |
-| Full Mental Health Diagnosis | ❌ Dropped | Too complex and outside the project's intended scope. |
-| Meditation-Focused Platform | ❌ Dropped | Existing solutions already address this area extensively. |
-| Habit Tracking System | ❌ Dropped | Useful but not directly related to the workload management problem. |
+| AI Study Assistant | ✅ Kept | Allows students to describe assignments, exams, and deadlines in natural language while the AI understands and organizes their workload automatically. |
+| AI Task Breakdown | ✅ Kept | Breaks large assignments and exam preparation into manageable study sessions, reducing procrastination and planning effort. |
+| AI Smart Scheduling | ✅ Kept | Automatically generates personalized study timetables based on deadlines, priorities, and availability. |
+| Smart Availability Management | ✅ Kept | Enables students to mark available or unavailable days and allows the AI to adjust schedules accordingly. |
+| Progress Tracking | ✅ Kept | Provides visibility into task completion and study progress, helping students stay on track throughout the semester. |
+| Achievement & Smart Check-In | ✅ Kept | Encourages motivation and consistency through achievements, rewards, and workload reflection check-ins. |
+| Workload Capacity Score | ⚠ Future Enhancement | Valuable for identifying overload levels and helping students better understand their workload capacity. |
+| Recovery & Break Suggestions | ⚠ Future Enhancement | Useful for promoting healthy study habits and wellbeing after core scheduling features are completed. |
+| Emergency Overload Mode | ⚠ Future Enhancement | Can help students manage unexpected situations by automatically reprioritizing tasks and schedules. |
+| Stress & Burnout Detection | ⚠ Future Enhancement | Supports student wellbeing but requires additional data analysis beyond the MVP scope. |
+| Sleep Tracking Integration | ⚠ Future Enhancement | Can provide additional insights into student wellness and workload balance but is not essential for the initial release. |
+| Wellness Tracking Features | ⚠ Future Enhancement | Considered beneficial for long-term student wellbeing but secondary to academic planning capabilities. |
+| Digital Diary / Reflection Journal | ❌ Dropped | Interesting feature, but not essential to solving the workload management problem. |
+| Community & Social Features | ❌ Dropped | Reduced focus on general productivity features to prioritize AI-powered capabilities. |
+
+### Final Decision
+
+After evaluating all proposed ideas, our team decided to focus on an **AI-Powered Academic Planning Assistant** that helps students:
+
+- 🤖 Understand and organize academic workload through AI.
+- 📚 Break down assignments into manageable tasks.
+- ⚡ Generate personalized study schedules automatically.
+- 📅 Adapt plans when availability changes.
+- 📈 Track progress toward academic goals.
+- 🎉 Stay motivated through achievements and regular check-ins.
+
+By concentrating on these AI-driven features, the solution moves beyond traditional task management tools and provides a personalized planning experience that actively helps students make better academic decisions.
 
 ---
 
@@ -183,7 +230,7 @@ Throughout the ideation phase, our team explored multiple approaches to solving 
 ### Miro Ideation Board
 
 🔗 **Miro Board:**
-https://miro.com/app/board/uXjVHoritp0=/?share_link_id=862469720840
+[Miro Ideation Board](https://miro.com/app/board/uXjVHoritp0=/?share_link_id=862469720840)
 
 This board contains our brainstorming process, feature exploration, user journey mapping, problem analysis, competitor research, and concept evolution throughout the prototype phase.
 
@@ -197,20 +244,32 @@ This journey map illustrates how students interact with ChillMate, from task inp
 
 ---
 
-### Development Roadmap
-
-![Development Roadmap](images/development-roadmap.png)
-
-This roadmap outlines the project's phases, MVP scope, future enhancements, and expected deliverables.
-
----
-
 ## 2.3 Mentor Consultation
 
-| Date | Mentor | Feedback Received | What Was Changed |
-|--------|--------|--------------------|------------------|
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
+Throughout the project, we regularly sought feedback from our mentor to validate our problem framing, feature prioritization, and overall solution direction.
+
+### Strengths Identified
+
+| Feedback | Action Taken |
+|-----------|-------------|
+| Clear framing of the problem before introducing the solution. | Retained the problem-driven structure of the presentation and README. |
+| Strong storytelling in the final pitch. | Continued focusing on a user journey that demonstrates how students interact with the system. |
+| The AI-related use cases were the most compelling aspects of the project. | Positioned AI-powered features as the core value proposition of the solution. |
+
+### Recommendations from Mentor
+
+| Recommendation | Action Taken |
+|---------------|-------------|
+| Emphasize the unique differentiating features of the product. | Highlighted AI Study Assistant, AI Task Breakdown, AI Smart Scheduling, and Adaptive Planning as the primary features. |
+| Prioritize special AI-powered capabilities over standard productivity functions. | Reduced focus on generic planner functionalities and emphasized intelligent automation. |
+| Showcase how AI helps students make decisions rather than simply record information. | Refined the product positioning as an AI-powered academic planning assistant rather than a traditional task management application. |
+| Streamline the presentation around what makes the solution unique. | Simplified feature prioritization and focused the narrative on the AI planning workflow. |
+
+### Impact on Final Solution
+
+Based on the mentor's feedback, the project evolved from a broad student productivity platform into a more focused **AI-Powered Academic Planning Assistant**.
+
+Several secondary features such as workload analysis, burnout detection, recovery suggestions, and wellness tracking were moved into future enhancement considerations to ensure the MVP remains focused, impactful, and aligned with the project's core objective.
 
 ---
 
@@ -218,94 +277,73 @@ This roadmap outlines the project's phases, MVP scope, future enhancements, and 
 
 ### UI Prototype
 
-[Figma Prototype Link]
+🔗 **Figma Prototype:**
+[Figma Prototype Link](https://www.figma.com/proto/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=XAoeAo5ipvcVLczC-1)
 
 Below are selected screens from the prototype.
 
-## Dashboard
-
-images/dashboard.png
-
-Provides:
-- Weekly workload overview
-- Capacity score
-- Upcoming deadlines
-- Progress tracking
-- Reward points
-- Weekly report summary
-
----
-
-## Calendar
-
-images/calendar.png
-
-Provides:
-- Day, week, and month views
-- Task scheduling
-- Deadline management
-- Capacity visualization
-
----
-
-## AI Assistant
-
-images/ai-assistant.png
-
-Allows students to:
-- Describe assignments naturally
-- Obtain workload analysis
-- Generate personalized schedules
-- Receive recommendations
-
----
-
-Demonstrates the entire interaction flow from onboarding to task completion.
+--------------Still in Progress(We recommend you embed or link 4–8 key screens as images, with a caption on each explaining the interaction)----------------------------
 
 ---
 
 # 4. What Makes It Different
 
-## Traditional Productivity Apps
+## Existing Solutions & Market Gap
 
-Most applications focus on:
+Current productivity and academic planning tools such as Google Calendar, Notion, MyStudyLife, and Todoist provide useful scheduling and task management features. However, these platforms primarily act as digital record-keeping tools, requiring users to manually organize tasks, determine priorities, estimate workloads, and create their own schedules.
 
-- Task tracking
-- Time blocking
-- Productivity optimization
+| Feature | MyStudyLife | Todoist | Mood Tracker | Studwy | ChillMate |
+|----------|------------|----------|-------------|---------|----------|
+| Academic Planning | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Task Management | ✅ | ✅ | ❌ | ✅ | ✅ |
+| AI Task Breakdown | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Workload Capacity Score | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Stress Monitoring | ❌ | ❌ | ✅ | ❌ | ✅ |
+| Wellbeing & Life Balance | ❌ | ❌ | ✅ | Limited | ✅ |
+| Weekly Workload Analysis | ❌ | ❌ | ❌ | ❌ | ✅ |
 
-They answer:
+### Market Gap
 
-> “What tasks do I have?”
+Although current solutions help students organize information, they rarely help students answer important planning questions:
+
+- What should I study first?
+- How much time should I allocate to each task?
+- How can my study plan adapt when my schedule changes?
+- How can large assignments be broken into manageable steps?
+
+Furthermore, the rise of Generative AI has significantly changed user expectations. AI is increasingly being integrated into everyday workflows to automate repetitive tasks, improve productivity, save time, and provide personalized recommendations. 
+
+Yet, most academic planning applications have not fully leveraged AI to support personalized scheduling, workload management, and decision-making.
+
+This creates a clear opportunity for an AI-powered academic planning assistant that goes beyond organizing information and actively helps students plan, adapt, and succeed.
 
 ---
 
-## ChillMate
+## 🌟 What Makes ChillMate StudyFlow AI Different?
 
-ChillMate focuses on:
+Most study planning applications help students **record tasks**.
 
-- Capacity Management
-- Wellbeing
-- Early Burnout Prevention
-- Smarter Workload Decisions
+**ChillMate StudyFlow AI helps students make decisions.**
 
-ChillMate answers:
+Instead of manually planning every assignment and exam, students only need to provide:
 
-> “Can I realistically handle this workload without becoming overwhelmed?”
+- Their academic workload
+- Assignment deadlines
+- Examination dates
+- Personal availability
 
-### Key Differentiators
+The AI then automatically:
 
-✅ Workload Capacity Score
+1. Understands academic requirements.
+2. Prioritizes urgent and important tasks.
+3. Breaks complex work into manageable sessions.
+4. Generates a personalized timetable.
+5. Adapts to schedule changes automatically.
+6. Tracks progress and motivates consistency.
 
-✅ Early Overload Detection
+### From Overwhelmed ➜ Organized
 
-✅ AI Smart Scheduling
-
-✅ AI Wellness Coach
-
-✅ Wellbeing Integration
-
-✅ Capacity-Based Planning
+ChillMate StudyFlow AI transforms academic planning from a tedious manual process into an intelligent, personalized, and adaptive learning experience powered by AI.
 
 ---
 
@@ -338,27 +376,11 @@ The system consists of:
 
 ---
 
-## Build Plan & Scope
+### Development Roadmap
 
-### MVP Scope
+![Development Roadmap](images/development-roadmap.png)
 
-Features planned during development:
-
-✅ AI Task Breakdown
-
-✅ AI Smart Scheduling
-
-✅ Smart Dashboard
-
-✅ Capacity Score
-
-✅ Weekly Report
-
-✅ Academic & Life Management
-
-✅ Wellbeing System
-
----
+This roadmap outlines the project's phases, MVP scope, future enhancements, and expected deliverables.
 
 ### Future Enhancements
 
