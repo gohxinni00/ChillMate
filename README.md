@@ -9,22 +9,6 @@
 **Presentation Slides:** [Insert Public Slide Link]
 
 ---
-# 💙 ChillMate by One More Fix
-
-### Your AI Buddy for Stress-Free Student Life.
-
-**Team:** One More Fix  
-**Team Members:** Goh Xin Ni, Goh Yi Jun, Cheryl Goh Wen Si  
-**Problem Statement:** Stress & Workload Manager  
-**Video Presentation:** [Insert Unlisted YouTube Link]  
-**Presentation Slides:** [Insert Public Slide Link]  
-**Miro Ideation Board:** https://miro.com/app/board/uXjVHoritp0=/?share_link_id=862469720840
-
----
-
-# 📑 Table of Contents
-
-
 
 # 1. Project Overview
 
@@ -82,13 +66,19 @@ Although many productivity tools support students, most only address part of the
 
 ### Market Gap
 
+Most existing productivity apps are designed to help students organize and complete tasks. However, they rarely consider whether students have enough time, energy, and capacity to realistically handle their workload.
+
+As a result, students may maintain well-organized schedules while still experiencing stress, poor work-life balance, and burnout due to overlapping commitments and limited capacity.
+
 Most existing applications answer:
 
-> “What tasks do I need to do?”
+> "What tasks do I need to do?"
 
 ChillMate answers:
 
-> “Can I realistically handle these tasks without becoming overwhelmed?”
+> "How can AI help me manage my workload, maintain my wellbeing, and prevent burnout?"
+
+By combining workload analysis, capacity awareness, AI-powered planning, and wellbeing support, ChillMate helps students prevent overload before it becomes burnout.
 
 ---
 
