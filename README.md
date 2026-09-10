@@ -46,7 +46,7 @@ ChillMate is designed for students managing academics, commitments, and wellbein
 
 ### Representative User Personas
 
-images/representative-user-personas.png
+![Representative User Personas](images/representative-user-personas.png)
 
 ---
 
@@ -173,7 +173,7 @@ This diagram illustrates the primary target users and the common workload-relate
 
 ### User Journey
 
-images/user-journey.png
+![User Journey](images/user-journey.png)
 
 This journey map illustrates how students interact with ChillMate, from task input and AI analysis to personalized scheduling, execution, wellbeing support, and achievement tracking.
 
@@ -181,7 +181,7 @@ This journey map illustrates how students interact with ChillMate, from task inp
 
 ### Development Roadmap
 
-images/development-roadmap.png
+![Development Roadmap](images/development-roadmap.png)
 
 This roadmap outlines the project's phases, MVP scope, future enhancements, and expected deliverables.
 
@@ -241,10 +241,6 @@ Allows students to:
 - Receive recommendations
 
 ---
-
-## User Journey
-
-images/user-journey.png
 
 Demonstrates the entire interaction flow from onboarding to task completion.
 
@@ -313,7 +309,7 @@ ChillMate answers:
 
 ## Technical Architecture
 
-images/tech-stack.png
+![Tech Stack](images/tech-stack.png)
 
 The system consists of:
 
