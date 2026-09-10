@@ -1,4 +1,4 @@
-![ChillMate](images/chillmate.png)
+<img src="images/chillmate.png" width="300">
 
 # ChillMate by One More Fix
 
@@ -384,33 +384,25 @@ The system consists of:
 
 This roadmap outlines the project's phases, MVP scope, future enhancements, and expected deliverables.
 
-### Future Enhancements
+### 🚀 Future Enhancements
 
-- Sleep Tracking & Wellness Suggestions
-- Automatic Timetable Import
-- Advanced AI Recommendations
-- Mobile Quick Capture Companion App
-- Gamification Features
-- Collaborative Planning
+| Enhancement | Description |
+|------------|-------------|
+| 😴 **Sleep Tracking & Wellness Suggestions** | Monitor sleep patterns and provide wellness, recovery, and study-life balance recommendations. |
+| 📥 **Automatic Timetable Import** | Import class schedules directly from university timetables and academic calendars to reduce manual setup. |
+| 🤖 **Advanced AI Recommendations** | Provide smarter workload predictions, personalized study strategies, and adaptive learning recommendations. |
+| 📱 **Mobile Quick Capture Companion App** | Allow students to quickly record tasks, deadlines, and reminders on the go. |
+| 🎮 **Enhanced Gamification Features** | Expand the achievement system with study streaks, badges, rewards, and motivational challenges. |
+| 👥 **Collaborative Planning** | Support group projects, shared deadlines, and collaborative study planning among classmates. |
+| 📊 **Workload Capacity & Burnout Analysis** | Introduce workload capacity scoring, overload detection, and burnout risk indicators. |
 
 ---
 
 ## Scalability
 
-### Current Target
+![Scalability](images/scalability.jpg)
 
-🎓 University Students
 
-### Future Expansion
-
-➡ Secondary School Students
-
-➡ Interns
-
-➡ Young Professionals
-
-➡ Capacity Management Beyond Education
-
-The same capacity-management framework can be adapted beyond university settings, enabling broader societal impact.
+StudyFlow AI is designed with scalability in mind. While the MVP focuses on university students, the platform can be adapted to support a wider range of users with different planning and productivity needs. This enables long-term growth opportunities and expands the potential impact of the solution beyond a single target audience.
 
 ---
