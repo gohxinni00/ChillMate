@@ -9,6 +9,22 @@
 **Presentation Slides:** [Insert Public Slide Link]
 
 ---
+# 💙 ChillMate by One More Fix
+
+### Your AI Buddy for Stress-Free Student Life.
+
+**Team:** One More Fix  
+**Team Members:** Goh Xin Ni, Goh Yi Jun, Cheryl Goh Wen Si  
+**Problem Statement:** Stress & Workload Manager  
+**Video Presentation:** [Insert Unlisted YouTube Link]  
+**Presentation Slides:** [Insert Public Slide Link]  
+**Miro Ideation Board:** https://miro.com/app/board/uXjVHoritp0=/?share_link_id=862469720840
+
+---
+
+# 📑 Table of Contents
+
+
 
 # 1. Project Overview
 
@@ -149,25 +165,37 @@ Examples:
 
 ## 2.1 Ideas We Considered
 
-| Idea | Why It Was Kept / Dropped |
-|--------|--------------------------|
-| AI Task Breakdown ✅ | Reduces planning burden and makes large assignments manageable |
-| AI Smart Scheduling ✅ | Prevents overload by distributing workload realistically |
-| Workload Capacity Score ✅ | Core differentiator; focuses on capacity rather than productivity |
-| Mood Check-ins ✅ | Helps track wellbeing in a non-intrusive way |
-| Full Mental Health Diagnosis ❌ | Too complex and outside project scope |
-| Meditation App ❌ | Existing solutions already address this problem |
-| Habit Tracker ⚠️ | Useful but not directly related to workload management |
+During the ideation phase, our team explored multiple approaches to address student stress and workload management. After evaluating the feasibility, potential impact, and alignment with the problem statement, we narrowed the concept into the following core features.
+
+| Idea | Decision | Reason |
+|--------|----------|----------|
+| AI Task Breakdown | ✅ Kept | Helps students transform large assignments into manageable subtasks and reduces planning burden. |
+| AI Smart Scheduling | ✅ Kept | Automatically distributes workload based on classes, commitments, and personal availability. |
+| Workload Capacity Score | ✅ Kept | Provides visibility into whether a student's workload is healthy, busy, or overloaded. |
+| AI Chat Assistant | ✅ Kept | Allows students to receive personalized guidance and workload recommendations. |
+| Stress & Burnout Detection | ✅ Kept | Supports early intervention by identifying workload overload and stress trends. |
+| Recovery & Break Suggestions | ✅ Kept | Encourages healthier study habits through personalized break and recovery recommendations. |
+| Availability & Focus Time Settings | ✅ Kept | Allows the AI to create realistic schedules based on personal capacity. |
+| Emergency Overload Mode | ✅ Kept | Simplifies workload during critical periods and highlights what can be postponed. |
+| Reward & Motivation System | ✅ Kept | Encourages consistent progress through positive reinforcement and achievement tracking. |
+| Mini Relaxation Activities | ⚠ Considered for Future Enhancement | Valuable for wellbeing but outside the MVP scope. |
+| Daily Motivational Quotes | ⚠ Considered for Future Enhancement | Improves engagement but not directly related to workload management. |
+| Full Mental Health Diagnosis | ❌ Dropped | Too complex and outside the project's intended scope. |
+| Meditation-Focused Platform | ❌ Dropped | Existing solutions already address this area extensively. |
+| Habit Tracking System | ❌ Dropped | Useful but not directly related to the workload management problem. |
 
 ---
 
 ## 2.2 Ideation Boards
 
-### User Personas
+Throughout the ideation phase, our team explored multiple approaches to solving student stress and workload management. This included identifying root causes, defining user personas, analysing existing solutions, mapping user journeys, and evaluating potential AI-powered features.
 
-images/representative-user-personas.png
+### Miro Ideation Board
 
-This diagram illustrates the primary target users and the common workload-related challenges experienced by different student groups.
+🔗 **Miro Board:**
+https://miro.com/app/board/uXjVHoritp0=/?share_link_id=862469720840
+
+This board contains our brainstorming process, feature exploration, user journey mapping, problem analysis, competitor research, and concept evolution throughout the prototype phase.
 
 ---
 
