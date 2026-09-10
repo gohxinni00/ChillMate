@@ -1,3 +1,5 @@
+![ChillMate](images/chillmate.png)
+
 # ChillMate by One More Fix
 
 ### Your AI Buddy for Stress-Free Student Life
