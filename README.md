@@ -41,9 +41,9 @@ ChillMate is designed for students managing academics, commitments, and wellbein
 
 ### Target Users
 
-- 🎒 Pre-University Students
-- 📚 Undergraduate Students
-- 🎓 Postgraduate Students
+- Pre-University Students
+- Undergraduate Students
+- Postgraduate Students
 
 ### Representative User Personas
 
@@ -92,7 +92,7 @@ Unlike traditional study planners that only store information, **StudyFlow AI ac
 
 ### 🤖 AI Study Assistant
 
-Talk to your planner naturally.
+*Talk to your planner naturally.*
 
 Simply describe your assignments, exams, deadlines, and commitments in everyday language. StudyFlow AI understands your workload, identifies priorities, and instantly transforms your input into an actionable study plan.
 
@@ -106,7 +106,7 @@ Simply describe your assignments, exams, deadlines, and commitments in everyday 
 
 ### 📚 AI Task Breakdown & Smart Scheduling
 
-Let AI handle the planning.
+*Let AI handle the planning.*
 
 Large assignments and exam preparations can feel overwhelming. StudyFlow AI automatically breaks complex tasks into manageable subtasks, estimates the required effort, and generates a personalized timetable tailored to your schedule.
 
@@ -124,7 +124,7 @@ Large assignments and exam preparations can feel overwhelming. StudyFlow AI auto
 
 ### 📅 Smart Availability Management
 
-Your schedule adapts to real life.
+*Your schedule adapts to real life.*
 
 Students can mark specific days or time slots as available or unavailable. Whenever plans change, StudyFlow AI automatically reorganizes remaining tasks while keeping deadlines achievable.
 
@@ -138,7 +138,7 @@ Students can mark specific days or time slots as available or unavailable. Whene
 
 ### 📊 Progress & Productivity Dashboard
 
-See your academic journey at a glance.
+*See your academic journey at a glance.*
 
 Monitor completed tasks, pending assignments, study progress, and upcoming deadlines through a centralized dashboard designed to provide clear visibility into your workload.
 
@@ -156,7 +156,7 @@ Monitor completed tasks, pending assignments, study progress, and upcoming deadl
 
 ### 🎉 Achievement & Smart Check-In
 
-Stay motivated while building consistent habits.
+*Stay motivated while building consistent habits.*
 
 Celebrate milestones through achievements, study streaks, and progress rewards. Regular check-ins help students reflect on their workload while enabling the AI to improve future schedule recommendations.
 
@@ -170,7 +170,7 @@ Celebrate milestones through achievements, study streaks, and progress rewards. 
 
 ### 🚀 Adaptive Academic Planning
 
-An intelligent planner that evolves with you.
+*An intelligent planner that evolves with you.*
 
 Unlike traditional planners, StudyFlow AI continuously adapts based on task completion, availability changes, and workload adjustments to maintain realistic and achievable schedules throughout the semester.
 
@@ -282,9 +282,126 @@ Several secondary features such as workload analysis, burnout detection, recover
 🔗 **Figma Prototype:**
 [Figma Prototype Link](https://www.figma.com/proto/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=XAoeAo5ipvcVLczC-1)
 
-Below are selected screens from the prototype.
+The following screens demonstrate the end-to-end user journey within ChillMate, from setting availability and adding commitments to receiving AI-powered recommendations and tracking progress.
 
---------------Still in Progress(We recommend you embed or link 4–8 key screens as images, with a caption on each explaining the interaction)----------------------------
+<table>
+<tr>
+<td width="40%">
+images/setup-availability.png
+</td>
+<td width="60%">
+
+<h3>1. Setup & Availability Management</h3>
+
+<b>Key Interactions</b>
+
+<ul>
+<li>Update class timetable</li>
+<li>Mark specific days as available or unavailable</li>
+<li>Configure personal study capacity and focus hours</li>
+</ul>
+
+<b>Purpose</b>
+
+Allows ChillMate to generate realistic schedules based on the student's actual availability instead of assuming they are free every day.
+
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+images/ai-prompt.png
+</td>
+<td width="60%">
+
+<h3>2. AI Prompt Input</h3>
+
+<b>Key Interactions</b>
+
+<ul>
+<li>Describe tasks using natural language</li>
+<li>Provide deadlines and task details</li>
+<li>Receive AI follow-up questions when information is incomplete</li>
+</ul>
+
+<b>Purpose</b>
+
+Transforms workload planning into a simple conversation while collecting sufficient information for personalized recommendations.
+
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+images/task-breakdown.png
+</td>
+<td width="60%">
+
+<h3>3. AI Task & Time Breakdown</h3>
+
+<b>Key Interactions</b>
+
+<ul>
+<li>Generate actionable subtasks</li>
+<li>Estimate time required for each task</li>
+<li>Create a structured work plan</li>
+</ul>
+
+<b>Purpose</b>
+
+Breaks large assignments into manageable steps, helping students reduce procrastination and start tasks earlier with a clear plan.
+
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+images/calendar-view.png
+</td>
+<td width="60%">
+
+<h3>4. Smart Timetable & Calendar View</h3>
+
+<b>Key Interactions</b>
+
+<ul>
+<li>View AI-generated schedules</li>
+<li>Review workload distribution</li>
+<li>Monitor upcoming deadlines and commitments</li>
+</ul>
+
+<b>Purpose</b>
+
+Provides a unified view of academics, activities, and personal commitments, allowing students to identify overloaded periods before they become stressful.
+
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+images/progress-achievement.png
+</td>
+<td width="60%">
+
+<h3>5. Progress Tracking, Achievement & Wellbeing Support</h3>
+
+<b>Key Interactions</b>
+
+<ul>
+<li>Update task status and progress</li>
+<li>Track assignment completion</li>
+<li>Receive achievement rewards</li>
+<li>Complete quick wellbeing check-ins</li>
+<li>Receive recovery and break recommendations</li>
+</ul>
+
+<b>Purpose</b>
+
+Encourages healthy study habits through positive reinforcement while continuously supporting student wellbeing.
+
+</td>
+</tr>
+</table>
 
 ---
 
