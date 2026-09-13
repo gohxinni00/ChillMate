@@ -10,7 +10,7 @@
 
 **Problem Statement:** Stress & Workload Manager<br>
 
-**Video Presentation:** [Insert Unlisted YouTube Link](https://youtu.be/VnQxF0qPk0g)
+**Video Presentation:** [Video](https://youtu.be/VnQxF0qPk0g)
 
 **Presentation Slides:** [ChillMate Slidedesk](https://drive.google.com/file/d/1ncX-tmuxeyjPSKpPEny4pXMASWHywF3U/view?usp=drive_link)
 
