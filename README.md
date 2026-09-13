@@ -8,7 +8,7 @@
 **Team Members:** Goh Xin Ni, Goh Yi Jun, Cheryl Goh Wen Si<br>
 **Problem Statement:** Stress & Workload Manager<br>
 **Video Presentation:** [Insert Unlisted YouTube Link]<br>
-**Presentation Slides:** [Insert Public Slide Link]
+**Presentation Slides:** [ChillMate Slidedesk](https://drive.google.com/file/d/1ncX-tmuxeyjPSKpPEny4pXMASWHywF3U/view?usp=drive_link)
 
 ---
 
@@ -280,7 +280,8 @@ Several secondary features such as workload analysis, burnout detection, recover
 ### UI Prototype
 
 🔗 **Figma Prototype:**
-[Figma Prototype Link](https://www.figma.com/proto/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=XAoeAo5ipvcVLczC-1)
+[Figma Link](https://www.figma.com/design/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=LjePeLjS0Rt8FdXo-1)
+[Figma Prototype Link](https://www.figma.com/proto/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=LjePeLjS0Rt8FdXo-1)
 
 The following screens demonstrate the end-to-end user journey within ChillMate, from setting availability and adding commitments to receiving AI-powered recommendations and tracking progress.
 
