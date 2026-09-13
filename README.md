@@ -288,7 +288,7 @@ The following screens demonstrate the end-to-end user journey within ChillMate, 
 <table>
 <tr>
 <td width="40%">
-images/setup-availability.png
+<img src="images/prototype/setup-availability.png" width="300">
 </td>
 <td width="60%">
 
@@ -311,7 +311,7 @@ Allows ChillMate to generate realistic schedules based on the student's actual a
 
 <tr>
 <td width="40%">
-images/ai-prompt.png
+<img src="images/prototype/ai-prompt.png" width="300">
 </td>
 <td width="60%">
 
@@ -334,7 +334,7 @@ Transforms workload planning into a simple conversation while collecting suffici
 
 <tr>
 <td width="40%">
-images/task-breakdown.png
+<img src="images/prototype/task-breakdown.png" width="300">
 </td>
 <td width="60%">
 
@@ -357,7 +357,7 @@ Breaks large assignments into manageable steps, helping students reduce procrast
 
 <tr>
 <td width="40%">
-images/calendar-view.png
+<img src="images/prototype/calendar-view.png" width="300">
 </td>
 <td width="60%">
 
@@ -380,7 +380,7 @@ Provides a unified view of academics, activities, and personal commitments, allo
 
 <tr>
 <td width="40%">
-images/progress-achievement.png
+<img src="images/prototype/progress-achievement.png" width="300">
 </td>
 <td width="60%">
 
