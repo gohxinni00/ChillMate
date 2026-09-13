@@ -280,8 +280,8 @@ Several secondary features such as workload analysis, burnout detection, recover
 ### UI Prototype
 
 🔗 **Figma Prototype:**
-[Figma Link](https://www.figma.com/design/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=LjePeLjS0Rt8FdXo-1)
-[Figma Prototype Link](https://www.figma.com/proto/qknnO42d6HyZV5MuY57mEp/CodeNection?node-id=0-1&t=LjePeLjS0Rt8FdXo-1)
+[Figma Link](https://www.figma.com/design/qknnO42d6HyZV5MuY57mEp/CodeNection?m=auto&t=sKJHjhlCKaDEAvsm-1)
+[Figma Prototype Link](https://www.figma.com/design/qknnO42d6HyZV5MuY57mEp/CodeNection?m=auto&t=sKJHjhlCKaDEAvsm-1)
 
 The following screens demonstrate the end-to-end user journey within ChillMate, from setting availability and adding commitments to receiving AI-powered recommendations and tracking progress.
 
