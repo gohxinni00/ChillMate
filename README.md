@@ -5,9 +5,13 @@
 ### Your AI Buddy for Stress-Free Student Life
 
 **Team:** One More Fix<br>
+
 **Team Members:** Goh Xin Ni, Goh Yi Jun, Cheryl Goh Wen Si<br>
+
 **Problem Statement:** Stress & Workload Manager<br>
+
 **Video Presentation:** [Insert Unlisted YouTube Link](https://youtu.be/VnQxF0qPk0g)
+
 **Presentation Slides:** [ChillMate Slidedesk](https://drive.google.com/file/d/1ncX-tmuxeyjPSKpPEny4pXMASWHywF3U/view?usp=drive_link)
 
 ---
